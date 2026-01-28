@@ -1,0 +1,9 @@
+<libro id="L001">
+    <titulo>Don Quijote de la Mancha</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <anio>1605</anio>
+    <isbn>978-84-204-1214-6</isbn>
+    <contenido>
+        En un lugar de la Mancha, de cuyo nombre no quiero acordarme...
+    </contenido>
+</libro>
